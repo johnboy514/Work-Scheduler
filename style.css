@@ -28,6 +28,9 @@ textarea {
 .time-block {
   text-align: center;
   border-radius: 15px;
+  /* change later maybe if cooler option appears */
+  border: solid;
+  padding: 20px;
 }
 
 .row {
