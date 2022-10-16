@@ -25,7 +25,6 @@ $(".saveBtn").on("click", function (event) {
   localStorage.setItem(event.target.attributes[0].value, calendarItem);
 });
 
-// Crafted array in one go works and scared to question
 // Array is used to go through to see which block the text input is saved to and store it on the same line
 timeArray = ["9am", "10am", "11am", "12pm", "1pm", "2pm","3pm", "4pm", "5pm"];
 varTimeId = ["#nineAm", "#tenAm", "#elevenAm", "#twelvePm", "#onePm", "#twoPm", "#threePm", "#fourPm", "#fivePm"];
