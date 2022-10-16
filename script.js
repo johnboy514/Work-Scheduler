@@ -7,7 +7,7 @@ var timeBlock = $(".hour");
 var now = parseInt(moment().format("H"));
 
 // Function to check each hour block to see if it is past (gray), present (red), or future (green).
-$.each(timeBlock, function (i, hour) {
+$.each(timeBlock, function () {
   var hourId = parseInt($(this).attr("id"));
   if (hourId === now) {
     $(this).next().addClass("present");
