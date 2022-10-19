@@ -13,7 +13,7 @@ This project was used to further my understanding of jQuery and bootstrap.
 
 ## Installation
 
-To use this project the user needs to open the index.html in a browser. it can also be reached on github live pages from this link https://johnboy514.github.io/Quiz/
+To use this project the user needs to open the index.html in a browser. it can also be reached on github live pages from this link https://johnboy514.github.io/Work-Scheduler/
 
 ## Usage
 
